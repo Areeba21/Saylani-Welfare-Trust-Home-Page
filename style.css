@@ -1,0 +1,206 @@
+
+
+.top{
+background-color: blue;
+    padding: 10px 5px 10px 5px;
+    margin: 10px 5px 10px 5px;
+    border: none;
+    text-align: center;
+    color: white;
+    
+}
+.button{
+    position: absolute;
+    left: 980px;
+    top: 10px;;
+    padding: 10px,5px,10px,5px;
+    margin: 10px 5px 10px 5px;
+}
+.navbar-toggler :active{
+    background-color: blue;
+    
+    border-radius: 5px;
+}
+
+
+    .images
+{
+
+        position: absolute;
+        left: 65px;
+        top:10px;
+        cursor: pointer;
+        padding: 15px;  
+   
+}
+.fa{
+    width: 30px;
+}
+.center{
+    background-color:rgb(50, 60, 250);
+   margin: 10px;
+    color: white;
+    font-size: 15px;
+
+}
+.blue{
+    text-align: center;
+    color:royalblue;
+    font-family: Cambria, Cochin, Georgia ;
+    font-size:30px;
+    font-weight: bold;
+    position: absolute;
+    top: 700px;
+    left: 550px;
+    
+}
+.green{
+   color:green ;
+    font-family: Cambria, Cochin, Georgia ;
+    font-size:30px;
+    font-weight: bold;
+    position: absolute;
+    top: 700px;
+    left: 640px;
+    
+}
+.box img{
+    margin: 120px;
+    padding: 0px;
+}
+.box{
+    background-color: blue !important;
+    text-align: center;
+}
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text{
+    text-align: center;
+}
+
+.box h1{
+font-size: 25px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+word-spacing: 230px;
+margin-top: -50px;
+color: white;
+}
+.box p{
+    font-size: 20px;
+    font-weight: bold;
+margin-right: 70px;
+}
+.A{
+    text-align: center;
+    color:royalblue;
+    font-size: 30px;
+    position: absolute;
+    left: 500px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}.B{
+    color:green ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:30px;
+    font-weight: bold;
+    position: absolute;
+    left: 645px;   
+}
+.picture{
+ display: block;
+ margin-left:auto ;
+ margin-right: auto;   
+}
+.tab td{
+    padding: 25px;
+    width: 250px;
+    height: 20px;
+    background-color: white;
+    border: 2px solid white;
+    box-shadow: 0px 0px 10px grey;
+}
+.tab td img{
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+.tab td p{
+     width: 200px;
+    /* padding: 140%;
+    margin-top: 60px;  */
+    margin-left: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 20px;
+} 
+.mission{
+    color: royalblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    margin: 20px;
+    font-weight: bold;
+}
+.second td{ 
+    padding: 0px;
+    width: 300px;
+    height: 50px;
+    background-color:white;
+    border: 1px solid silver;
+    column-gap: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:30px;
+}
+.second span{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-align: center;
+    border: black;
+    column-span: 2;
+}
+.events{
+    margin-left: 850px;
+}
+.events marquee{
+    width: 250px;
+    height: 150px;
+    margin-top: 20px;
+    border: 1px solid whitesmoke;
+    color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.second{
+    color: royalblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold
+}
+.image{
+    color:royalblue;
+    font-family: Cambria, Cochin, Georgia ;
+    font-size:30px;
+    font-weight: bold;
+    margin-left: 550px;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ending h3{
+    color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.ending{
+    background-color:rgb(40, 40, 40);
+}
+.final{
+    background-color:rgb(51,0,255);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
